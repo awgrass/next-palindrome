@@ -18,14 +18,18 @@ I/O Example
 Input:
 
 10
+
 1999
+
 8199
 
 
 Output:
 
 11
+
 2002
+
 8228
 
 }
