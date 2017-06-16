@@ -9,7 +9,7 @@ Output:
 For each L, output the smallest palindrome larger than L.
 
 Example
-{
+
 Input:
 808
 2133
@@ -17,4 +17,3 @@ Input:
 Output:
 818
 2222
-}
